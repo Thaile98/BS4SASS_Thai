@@ -1,15 +1,15 @@
 # Bài tập Trainee Colombo 2018
 
-## Todolist-Thaile
+## BS4Sass-Thaile
 
-Tạo một phiên bản to do list cơ bản.
+Kết hợp Sass và BS4
 
 Thực hiện bởi [Lê Văn Thái](https://github.com/Thaile98)
 
 ## Liên kết
 
-- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1914531595
-          http://todomvc.com/examples/jquery/#/all
+- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1573591838
+          https://getbootstrap.com/docs/4.0/examples/offcanvas
 
 - Bài làm: 
  - https://thaile98.github.io/jquery/index.html
